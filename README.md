@@ -1,5 +1,6 @@
 # Arduino_BuiltIn library for Arduino
 
+[![Check Arduino status](https://github.com/arduino-libraries/Arduino_BuiltIn/actions/workflows/check-arduino.yml/badge.svg)](https://github.com/arduino-libraries/Arduino_BuiltIn/actions/workflows/check-arduino.yml)
 [![Spell Check status](https://github.com/arduino-libraries/Arduino_BuiltIn/actions/workflows/spell-check.yml/badge.svg)](https://github.com/arduino-libraries/Arduino_BuiltIn/actions/workflows/spell-check.yml)
 
 Shell Arduino library to provide the standard built-in libraries.
