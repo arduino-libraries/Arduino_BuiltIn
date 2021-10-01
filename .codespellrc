@@ -5,3 +5,4 @@ ignore-words-list = ,
 check-filenames =
 check-hidden =
 skip = ./.git
+builtin = clear
